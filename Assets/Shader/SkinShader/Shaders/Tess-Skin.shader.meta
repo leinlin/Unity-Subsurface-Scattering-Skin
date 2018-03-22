@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 12b9a2051f5880f499cccf19e7d1a7c4
+timeCreated: 1521399742
+licenseType: Pro
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _MainTex: {instanceID: 0}
+  - _BumpMap: {instanceID: 0}
+  - _SpecularMap: {instanceID: 0}
+  - _HeightMap: {instanceID: 0}
+  - _OcclusionMap: {instanceID: 0}
+  - _DetailAlbedo: {instanceID: 0}
+  - _DetailBump: {instanceID: 0}
+  - _RampTex: {fileID: 2800000, guid: 43721d2a1a9c49b4585a8dd6dfab0a40, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
